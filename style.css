@@ -14,3 +14,11 @@ a {
 p {
     font-size: 17px;
 }
+
+.cb-header34 .content h2 {
+    color: #ffffff;
+    font-size: 30px;
+    overflow: hidden;
+    text-align: center;
+    font-weight: 300;
+}
