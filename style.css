@@ -3,8 +3,8 @@
 }
 
 .cb-content46 {
-    padding-top: 0;
     border-top-style: none;
+    padding: 0 5% 5%;
 }
 
 a {
@@ -12,7 +12,7 @@ a {
 }
 
 p {
-    font-size: 17px;
+    font-size: 1em;
 }
 
 .cb-header34 .content h2 {
@@ -21,4 +21,63 @@ p {
     overflow: hidden;
     text-align: center;
     font-weight: 300;
+}
+
+.cb-content42 .content {
+    width: 100%;
+    padding: 2%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    height: 100%;
+}
+
+.cb-title7 {
+    padding: 5%;
+}
+
+.cb-content31 {
+    padding-top: 5%;
+    padding-bottom: 0;
+}
+
+.cb-title7 h1 {
+    text-transform: capitalize;
+}
+
+.cb-content42 .content h2 {
+    text-transform: capitalize;
+}
+
+.cb-header34 .content h1 {
+    font-size: 3em;
+    font-weight: 400;
+}
+
+div.cb-content42 p {
+    font-size: 1.25em;
+}
+
+.cb-content-1-46 {
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cb-cta3 {
+    padding: 3% 0;
+}
+
+.cb-cta3 .btn {
+    text-transform: capitalize;
+    font-size: 1.25em;
+}
+
+.cb-header34 {
+    background-image: url('https://images.unsplash.com/photo-1522844990619-4951c40f7eda?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjIwOTIyfQq=85&fm=jpg&crop=faces&cs=srgb&w=1280&fit=max');
+}
+
+.cb-header34 .content p {
+    max-width: 700px;
+    font-size: 1.5em;
+    font-weight: normal;
 }
